@@ -5,20 +5,19 @@
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compiles and hot-reloads for development Node
 ```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
+Ingresar a la carpeta server
+npm install
 npm run build
+npm start
 ```
 
-### Lints and fixes files
+### Compiles and hot-reloads for development Vue
 ```
-npm run lint
-```
+Ingresar a la carpeta principal
+npm install
+npm run serve
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
